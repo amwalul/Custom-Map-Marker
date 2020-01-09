@@ -1,6 +1,6 @@
 # Custom-Map-Marker
 
-## An example of usage:
+### An example of usage:
 
 - MVP Pattern
 - HTTP Request

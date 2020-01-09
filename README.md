@@ -2,6 +2,6 @@
 
 ### An example of usage:
 
-- MVP Pattern
-- HTTP Request
-- Google Maps
+- MVP pattern
+- HTTP request
+- Google maps
